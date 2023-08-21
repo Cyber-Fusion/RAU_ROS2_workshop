@@ -1,6 +1,6 @@
 # RAU_ROS2_workshop
-***This project represents communication between nodes showen in this diagram.***
-<img width="972" alt="Screen Shot 2023-05-21 at 14 42 08" src="https://suren-atoyan.notion.site/ROS2-Workshop-Introduction-and-Small-Project-Build-9f182cb2d12f49e3a345a6ac456143ff">
+***This project represents communication between nodes showen in this [diagram](https://suren-atoyan.notion.site/ROS2-Workshop-Introduction-and-Small-Project-Build-9f182cb2d12f49e3a345a6ac456143ff).***
+
 
 ***Before building you must setup your root environment.***
 ***Build***
